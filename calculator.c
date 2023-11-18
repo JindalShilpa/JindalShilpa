@@ -9,6 +9,6 @@ int main()
     scanf("%d",&choice);
     switch(choice)
     {
-        case 1: printf("addition is %f",x+y);
+        case 1: printf("subtractin is %f",x-y);
     }
 }
