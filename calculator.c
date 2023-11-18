@@ -9,8 +9,8 @@ int main()
     scanf("%d",&choice);
     switch(choice)
     {
+<<<<<<< HEAD
         case 1: printf("addition is %f",x+y);
         case 3: printf("multiplication is %f",x*y);
         case 4: printf("division is %f",x/y);
-    }
 }
