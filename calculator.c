@@ -8,8 +8,7 @@ int main()
     printf("enter your choice\n1.Addition\n2.subtraction\n3.multiplicatio\n4.division\n");
     scanf("%d",&choice);
     switch(choice)
-    {
-<<<<<<< HEAD
+    
         case 1: printf("addition is %f",x+y);
         case 3: printf("multiplication is %f",x*y);
         case 4: printf("division is %f",x/y);
